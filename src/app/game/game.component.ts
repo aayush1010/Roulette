@@ -124,9 +124,5 @@ export class GameComponent implements OnInit {
     else{
       (<HTMLInputElement>(document.getElementById("selectOne"))).click();
     }
-
-
   }
-
-
 }
